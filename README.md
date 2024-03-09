@@ -55,4 +55,4 @@ If you use this dataset, please cite the following papers:
   journal={arXiv preprint arXiv:1809.01286},
   year={2018}
 }
-~~~
+~~~"# Fake-News-Detection-main" 
